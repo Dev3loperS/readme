@@ -22,7 +22,7 @@ THÔNG TIN SOURCE:
 * Link Deploy: http://103.160.2.183
 	1. http://103.160.2.183:3000/ -> User Web
 	2. http://103.160.2.183:8088/swagger-ui.html -> API doc + Admin Web
-* Link Youtube: 
+* Link Youtube: https://youtu.be/xAYCC-cZgOc 
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 THÔNG TIN DỰ ÁN:
