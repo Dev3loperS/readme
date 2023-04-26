@@ -14,7 +14,7 @@ THÔNG TIN NHÓM:
 THÔNG TIN SOURCE:
 
 * Link Github(Organization): https://github.com/Dev3loperS
-    Repository:
+  * Repository:
 	1. gear3s_backend (backend + frontend của Admin Web)
 	2. gear3s_database (database)
 	3. gear3s_webapp (frontend của User Web)
@@ -54,6 +54,5 @@ THÔNG TIN DỰ ÁN:
 ...
 
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
-CÔNG NGHỆ SỬ DỤNG:
- Được mô tả cụ thể trong các Repository
+CÔNG NGHỆ SỬ DỤNG: Được mô tả cụ thể trong các Repository
 
